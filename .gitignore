@@ -1,0 +1,14 @@
+# Nunca publicar datos presupuestales, credenciales ni bases de autenticación
+/datos/
+/fuentes/
+*.sqlite
+*.sqlite3
+*.db
+*.xlsx
+*.xls
+*.csv
+*.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.venv/

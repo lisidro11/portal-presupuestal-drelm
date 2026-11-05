@@ -1,0 +1,4 @@
+NO PUBLICAR: base de datos SQLite, contraseñas, credenciales, archivos Excel institucionales.
+Este paquete contiene solo el codigo. Streamlit requiere un hosting Python y una base persistente para produccion.
+La aplicacion pedira carga inicial de Excel al administrador si no existe la fuente.
+NO distribuir accesos reales antes de validar almacenamiento persistente y seguridad.
